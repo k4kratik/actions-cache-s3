@@ -1,7 +1,7 @@
 {
-  "name": "cache",
-  "version": "3.3.1",
-  "private": true,
+  "name": "github-actions-s3-cache",
+  "version": "0.1.0",
+  "private": false,
   "description": "Cache dependencies and build outputs",
   "main": "dist/restore/index.js",
   "scripts": {
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/actions/cache.git"
+    "url": "git+https://github.com/k4kratik/actions-cache-s3.git"
   },
   "keywords": [
     "actions",
     "node",
     "cache"
   ],
-  "author": "GitHub",
+  "author": "k4kratik",
   "license": "MIT",
   "dependencies": {
     "@actions/cache": "https://gitpkg.now.sh/whywaita/actions-toolkit-s3/packages/cache?main",
