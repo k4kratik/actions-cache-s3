@@ -1,4 +1,4 @@
-name: 'Cache S3'
+name: 'Kratik Cache S3'
 description: 'actions/cache@v2 for AWS S3 and compatible software (forked Actions)'
 author: 'whywaita'
 inputs:
